@@ -1155,7 +1155,7 @@ fail:
 /** Provide basic version information to the XFree86 code. */
 static XF86ModuleVersionInfo OMAPVersRec =
 {
-		"omap_pvr",
+		"omappvr",
 		MODULEVENDORSTRING,
 		MODINFOSTRING1,
 		MODINFOSTRING2,

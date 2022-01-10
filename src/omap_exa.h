@@ -86,7 +86,7 @@ typedef struct _OMAPEXARec
  * acceleration, that utiltizes the OMAP's PowerVR accelerator and uses closed
  * source from Imaginations Technology Limited.
  */
-#define SUB_MODULE_PVR	"omap_pvr"
+#define SUB_MODULE_PVR	"omappvr"
 OMAPEXAPtr InitPowerVREXA(ScreenPtr pScreen, ScrnInfoPtr pScrn, int fd);
 
 /**
